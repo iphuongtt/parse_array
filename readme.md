@@ -1,0 +1,1 @@
+convert serialize string to array declaration
